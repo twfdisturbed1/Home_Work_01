@@ -1,4 +1,5 @@
 Read Me File for Project 1
+<hr color="red">
 The wear is playing drum_tom_hi_hard
 By using smell with it you sre adding 1 every loop
 By adding the >= 10 command when the count gets to 10 it plays a new sound
