@@ -1,4 +1,4 @@
-<B>Read Me File for Project 1<b>
+<B>Read Me File for Project 1</b>
 <hr>
 The wear is playing drum_tom_hi_hard
 By using smell with it you sre adding 1 every loop
